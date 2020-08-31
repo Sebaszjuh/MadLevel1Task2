@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mad Level 1 Task 2</string>
+    <string name="titleHeader">Conjunction (AND)</string>
+    <string name="headerA">A</string>
+    <string name="headerB">B</string>
+    <string name="headerResult">A^B</string>
+    <string name="Ttrue">T</string>
+    <string name="Ffalse">F</string>
+    <string name="submit">Submit</string>
+    <string name="instruction">Conjunction table, use logic to answer the question. Answer with a T or F</string>
+    <string name="score">You scored %d out of %d points</string>
+
+</resources>
